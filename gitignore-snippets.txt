@@ -1,0 +1,2 @@
+https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+https://github.com/github/gitignore/blob/main/Python.gitignore
