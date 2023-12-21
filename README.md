@@ -48,13 +48,11 @@ https://github.com/github/gitignore/blob/main/Python.gitignore
 - run `make_gitignore.py`
 
 ## Contributing
+```console
 git clone https://github.com/bwagner/gitignore
 cd gitignore
 pip install -r requirements.txt -r dev-requirements.txt
 pre-commit install
-
+```
 
 ## TODO
-- using `pathlib.Path` to wrangle urls. Would like to use
-  [yarl](https://pypi.org/project/yarl/), but it
-  currently doesn't build for Python 3.12
